@@ -348,7 +348,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1667466914}
         m_TargetAssemblyTypeName: spawnButton, Assembly-CSharp
         m_MethodName: ButtonClicked
         m_Mode: 1
@@ -1332,6 +1332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _placerFab: {fileID: 4273007527744875665, guid: 6da5afd164e67414abd2c8604c6da810,
     type: 3}
+  UI: {fileID: 40016750}
 --- !u!1001 &1692397772
 PrefabInstance:
   m_ObjectHideFlags: 0
